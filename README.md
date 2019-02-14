@@ -1,0 +1,1 @@
+This is an example of a horizontally grouped bar chart. It allows you to easily see the difference between different series of data. 
